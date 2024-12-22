@@ -1,5 +1,5 @@
-# tp-lab-4 [![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
-Study of continuous integration systems on the example of Travis CI service.
+# **tp-lab-4** [![Build Status](https://app.travis-ci.com/Rigrey/lab04.svg?token=sSjKqXpxzeqqaxAwq5f2&branch=main)](https://app.travis-ci.com/Rigrey/lab04)
+Study of continuous integration systems on the example of Travis CI service
 
 ## Tutorial
 
